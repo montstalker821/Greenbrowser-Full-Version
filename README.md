@@ -236,4 +236,4 @@ This repository serves as the official landing page for GreenBrowser. The softwa
 **Get the most recent version of GreenBrowser today!**
 
 ---
-**Last updated:** 2026-09-13 12:56:57 UTC
+**Last updated:** 2026-09-13 16:47:17 UTC
